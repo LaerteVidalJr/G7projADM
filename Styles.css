@@ -67,6 +67,10 @@ form textarea{
     padding-left: 210px;
 }
 
+.compararp{
+    text-decoration: underline;
+}
+
 #formdiv{
     margin: auto;
     width: 650px;
